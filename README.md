@@ -1,6 +1,10 @@
 # Assignment 5
 Practical Data Science (PDS) 2020/2021, University of Wuerzburg
 
+Link zur App:
+https://mybinder.org/v2/gh/nicolasleip/sneaker/HEAD?urlpath=%2Fvoila%2Frender%2FSneaker_App.ipynb
+
+
 __Deadline 21.01.2021, 10am__ 
 
 # Instructions (Google Colab)
